@@ -1,0 +1,35 @@
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+body {
+  font-size: 100%;
+}
+
+img {
+  width: 30%;
+}
+
+
+.text__code {
+  font-family: 'Open Sans', sans-serif;
+  color: #2c2c2c;
+ width: 30%;
+ font-size: 110%;
+ padding: 20px;
+ line-height: 200%;
+ letter-spacing: .5px;
+}
+
+.text__more{
+  font-size: 75%;
+  font-weight: bold;
+}
+
+     /* font-family: 'Oswald', sans-serif;
+     font-family: 'Open Sans', sans-serif; */
