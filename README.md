@@ -1,1 +1,1 @@
-# cool-things-casestudy
+# Cool-Things-casestudy
