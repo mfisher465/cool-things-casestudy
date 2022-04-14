@@ -31,5 +31,15 @@ img {
   font-weight: bold;
 }
 
-     /* font-family: 'Oswald', sans-serif;
-     font-family: 'Open Sans', sans-serif; */
+
+
+.head__code {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  line-height: 200%;
+  letter-spacing: 3px;
+  font-size: 100%;
+  padding: 20px;
+  width: 30%;
+
+}
